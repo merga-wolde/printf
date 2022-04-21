@@ -24,6 +24,7 @@ int print_STR (va_list arg);
  * @indentifier: type
  * @printer: function to print
  */
+
 typedef struct identifierStruct
 {
 char *indentifier;
